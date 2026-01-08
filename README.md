@@ -1,5 +1,3 @@
-# fabric-mobility-airquality-project
-
 # NYC Mobility, Air Quality & Economic Analytics (Microsoft Fabric)
 
 ## Overview
