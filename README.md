@@ -1,5 +1,5 @@
 # Maratova Akbota Data Engineer group
-# NYC Mobility, Air Quality & Economic Analytics (Microsoft Fabric)
+NYC Mobility, Air Quality & Economic Analytics (Microsoft Fabric)
 
 ## Overview
 This project demonstrates an end-to-end analytics pipeline built on Microsoft Fabric.
