@@ -4,7 +4,7 @@
 ## Overview
 This project demonstrates an end-to-end analytics pipeline built on Microsoft Fabric.
 It integrates mobility, environmental, and economic data to analyze relationships between
-urban traffic, air quality, and macroeconomic context.
+urban traffic, air quality, and macroeconomic context
 
 ## Data Sources
 - NYC Taxi & Limousine Commission (TLC) – trip-level data (Parquet)
@@ -16,12 +16,6 @@ urban traffic, air quality, and macroeconomic context.
 - Bronze: raw data ingestion into OneLake
 - Silver: cleaned, standardized, enriched datasets
 - Gold: star schema + analytical fact tables
-
-## Key Analytical Questions
-- How does taxi demand vary by time and location?
-- Are pollution peaks correlated with traffic intensity?
-- How does revenue change when converted to EUR?
-- How can economic indicators contextualize mobility trends?
 
 ## Technologies
 - Microsoft Fabric
